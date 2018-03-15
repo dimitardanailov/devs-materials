@@ -13,7 +13,7 @@
 
 - [Why I Left Gulp and Grunt for npm Scripts](https://medium.freecodecamp.org/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8)
 - [Intro to Gulp 4, Totally Tooling Tips (S3 Mini Tip #1)](https://www.youtube.com/watch?v=N42LQ2dLoA8&feature=youtu.be)
-- [Gulp 4: The new task execution system - gulp.parallel and gulp.series](Gulp 4: The new task execution system - gulp.parallel and gulp.series)
+- [Gulp 4: The new task execution system - gulp.parallel and gulp.series](https://fettblog.eu/gulp-4-parallel-and-series/?utm_campaign=chrome_series_introtogulp_031616&utm_source=chromedev&utm_medium=yt-annt)
 
 ### Husky
 
